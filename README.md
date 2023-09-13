@@ -1,1 +1,1 @@
-# intel_case
+# business_analysis_case
